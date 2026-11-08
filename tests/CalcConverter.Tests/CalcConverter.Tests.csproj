@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\CalcConverter.Core\CalcConverter.Core.csproj" />
+    <ProjectReference Include="..\..\src\CalcConverter.Cli\CalcConverter.Cli.csproj" />
   </ItemGroup>
 
 </Project>
