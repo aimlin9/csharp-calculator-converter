@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CalcConverter.Cli/CalcConverter.Cli.csproj" />
+    <Project Path="src/CalcConverter.Core/CalcConverter.Core.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/CalcConverter.Tests/CalcConverter.Tests.csproj" />
+  </Folder>
+</Solution>
